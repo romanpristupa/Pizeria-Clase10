@@ -32,6 +32,7 @@ header nav ul a{
 }
 main{
     display:flex;
+    align-items: stretch;
 
 }
 main section{
@@ -39,7 +40,7 @@ main section{
     width: 490px;
 }
 .delivery{
-    background-image:url(/img/delivery.svg);
+    background-image:url(/img/delivery.jpg);
     border-radius: 5px;
     font-size: 24px;
             
@@ -89,6 +90,7 @@ main{
 .podio{
     background-color: white;
     padding-left: 56px;
+    border-radius: 5px;
 }
 .centrar{
     text-align: center;
